@@ -1,0 +1,12 @@
+# ambiente e programa gerado
+.venv/
+dist/
+build/
+__pycache__/
+*.pyc
+*.spec
+
+# o que o programa grava ao ser usado
+capturas/
+historico.log
+config.json

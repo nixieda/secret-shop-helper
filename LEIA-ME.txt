@@ -1,0 +1,82 @@
+EPIC SEVEN SECRET SHOP AUTO REFRESH
+
+ENGLISH
+
+How to use
+1. Extract the whole ZIP to a folder. Do not run it from inside the ZIP.
+2. Open Epic Seven (PC client from Steam or STOVE, in a window) and open the Secret Shop.
+3. Open SecretShop.exe, tick the items, choose when it should stop (Skystones by default, or Gold, Mystic
+   Medals or Covenant Bookmarks), type the value and press START.
+   Only Skystones limits Skystones: with the other options it keeps refreshing until it gets there.
+4. Keep the game in front. If you move the mouse, it pauses until the mouse stays still.
+   Press F8 or STOP to end it at any time.
+
+On STOVE
+STOVE runs the game as administrator, and Windows only lets a program see and click it if that program
+also runs as administrator. When you press START, the bot offers to reopen itself as administrator,
+and Windows asks for your permission.
+
+Good to know
+- The first time, it can take up to a minute to open while Windows and the antivirus check it. Open it only once.
+- The interface starts in English. Use the EN / PT switch at the top to change it.
+- It needs Windows 10 or 11. On "Windows N" editions, also install the Media Feature Pack from Microsoft.
+- It only works with the game window called "Epic Seven". Emulators are not supported.
+- It resizes the game window if needed, but never changes your Windows resolution.
+- Gold and Skystone counters are calculated from what the program did. They are not read from the game.
+- The three dots next to PROGRESS show everything the bot has spent and bought. Those totals are kept in
+  %APPDATA%\SecretShop, so a new version keeps them.
+- If the game updates its screens, the program may stop working until it is updated.
+
+Windows and antivirus warnings
+This program is not digitally signed and it controls the mouse, so Windows or an antivirus may warn you.
+If Windows shows "Windows protected your PC", you can choose "More info" and then "Run anyway".
+Only do this if you downloaded the file from the project page: https://github.com/nixieda/secret-shop-helper/releases
+
+Support the project
+The bot is free. If it helped you, you can chip in on Ko-fi: https://ko-fi.com/nixieda
+The ? at the top of the program opens the same page.
+
+Use at your own risk
+This tool is unofficial and is not approved by Smilegate. Automating the game may break its rules,
+and your account could be penalized. You decide whether to use it.
+
+
+PORTUGUES
+
+Como usar
+1. Extraia o ZIP inteiro para uma pasta. Nao abra o programa de dentro do ZIP.
+2. Abra o Epic Seven (cliente de PC da Steam ou do STOVE, em janela) e abra a Loja Secreta.
+3. Abra o SecretShop.exe, marque os itens, escolha quando ele deve parar (Pedras Celestes por padrao, ou Ouro,
+   Medalhas Misticas ou Marca-Paginas), digite o valor e aperte START.
+   So a opcao de Pedras Celestes limita as Pedras: nas outras, ele renova ate chegar la.
+4. Deixe o jogo na frente. Se mexer no mouse, ele pausa ate o mouse ficar parado.
+   Aperte F8 ou STOP para parar a qualquer momento.
+
+No STOVE
+O STOVE abre o jogo como administrador, e o Windows so deixa um programa ver e clicar nele se esse programa
+tambem rodar como administrador. Quando voce aperta START, o bot se oferece para reabrir como administrador,
+e o Windows pede sua permissao.
+
+Bom saber
+- Na primeira vez, pode levar ate um minuto para abrir enquanto o Windows e o antivirus examinam. Abra so uma vez.
+- A interface abre em ingles. Use o seletor EN / PT no topo para trocar.
+- Precisa do Windows 10 ou 11. Nas edicoes "Windows N", instale tambem o Media Feature Pack da Microsoft.
+- Ele so funciona com a janela do jogo chamada "Epic Seven". Emuladores nao funcionam.
+- Ele ajusta o tamanho da janela do jogo se precisar, mas nunca muda a resolucao do Windows.
+- Os contadores de ouro e Pedras Celestes sao calculados pelo que o programa fez, nao lidos do jogo.
+- Os tres pontinhos ao lado de PROGRESSO mostram tudo o que o bot ja gastou e comprou. Esse historico fica em
+  %APPDATA%\SecretShop, entao uma versao nova continua de onde parou.
+- Se o jogo mudar as telas em uma atualizacao, o programa pode parar de funcionar ate ser atualizado.
+
+Avisos do Windows e do antivirus
+O programa nao tem assinatura digital e controla o mouse, entao o Windows ou um antivirus podem avisar.
+Se aparecer "O Windows protegeu o computador", voce pode escolher "Mais informacoes" e "Executar assim mesmo".
+Faca isso somente se baixou o arquivo da pagina do projeto: https://github.com/nixieda/secret-shop-helper/releases
+
+Apoie o projeto
+O bot e gratuito. Se ele te ajudou, voce pode apoiar pelo Ko-fi (https://ko-fi.com/nixieda) ou por Pix,
+com a chave aleatoria d8d05d06-fd35-47f7-9cec-91ed5a06b250. O ? no topo do programa mostra o QR Code do Pix.
+
+Use por sua conta e risco
+Esta ferramenta nao e oficial e nao tem aprovacao da Smilegate. Automatizar o jogo pode violar as regras,
+e sua conta pode ser punida. A decisao de usar e sua.

@@ -1,0 +1,4 @@
+# Keep every file byte for byte, so the program built here matches the code on this page.
+* -text
+# cmd.exe expects Windows line endings.
+*.bat text eol=crlf
